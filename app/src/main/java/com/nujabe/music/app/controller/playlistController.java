@@ -1,5 +1,5 @@
 package com.nujabe.music.app.controller;
 
-public class playlistController {
+public class PlaylistController {
     
 }

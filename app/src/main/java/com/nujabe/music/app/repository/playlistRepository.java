@@ -1,5 +1,5 @@
 package com.nujabe.music.app.repository;
 
-public class playlistRepository {
+public class PlaylistRepository {
     
 }
